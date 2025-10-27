@@ -1,10 +1,19 @@
-# decor
+# Home Decor
 
-A new Flutter project.
+A modern shopping experience for stylish interiors. The app allows users to browse furniture, manage their cart, and complete secure purchases with ease.
 
-## Getting Started
+##Features
+Clean Architecture implemented with Bloc.
 
-This project is a starting point for a Flutter application.
+Firebase Authentication for secure login and registration.
+
+Firestore for real-time product and order data.
+
+Dark Theme support for a sleek, user-friendly interface.
+
+Dependency Injection using Service Locator for scalable architecture.
+
+Modular UI with reusable components.
 
 A few resources to get you started if this is your first Flutter project:
 
