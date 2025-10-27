@@ -3,6 +3,7 @@
 A modern shopping experience for stylish interiors. The app allows users to browse furniture, manage their cart, and complete secure purchases with ease.
 
 #Features
+
 Clean Architecture implemented with Bloc.
 Firebase Authentication for secure login and registration.
 Firestore for real-time product and order data.
