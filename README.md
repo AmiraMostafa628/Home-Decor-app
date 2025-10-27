@@ -5,10 +5,15 @@ A modern shopping experience for stylish interiors. The app allows users to brow
 ## Features
 
 -Clean Architecture implemented with Bloc.
+
 -Firebase Authentication for secure login and registration.
+
 -Firestore for real-time product and order data.
+
 -Dark Theme support for a sleek, user-friendly interface.
+
 -Dependency Injection using Service Locator for scalable architecture.
+
 -Modular UI with reusable components.
 
 A few resources to get you started if this is your first Flutter project:
