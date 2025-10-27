@@ -1,6 +1,8 @@
 video
 https://drive.google.com/drive/u/0/folders/11gP4INZMf-T7KeVZ8ggbeC7llQyS4n48
 
+<img width="600" height="800" alt="1000140846" src="https://github.com/user-attachments/assets/95487afd-76ec-4c09-aec0-c4e0eb48ffee" />
+<img width="600" height="800" alt="1000140844" src="https://github.com/user-attachments/assets/f0db586c-5a7c-4d5f-b509-e5347440265a" />
 <img width="600" height="800" alt="1" src="https://github.com/user-attachments/assets/a6a25524-2f9e-476b-8598-fd85e12e91b2" />
 <img width="600" height="800" alt="2" src="https://github.com/user-attachments/assets/6016db7d-c2c8-47a6-b94c-7026da5fb332" />
 <img width="600" height="800" alt="3" src="https://github.com/user-attachments/assets/83bfc4d8-8e3c-4ff3-a63a-50dc12d5f47a" />
