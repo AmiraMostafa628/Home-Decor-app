@@ -1,3 +1,15 @@
+video
+https://drive.google.com/drive/u/0/folders/11gP4INZMf-T7KeVZ8ggbeC7llQyS4n48
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/a6a25524-2f9e-476b-8598-fd85e12e91b2" />
+![2](https://github.com/user-attachments/assets/2d148849-eb43-4236-b2d9-99a16a3ac5b8)
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/83bfc4d8-8e3c-4ff3-a63a-50dc12d5f47a" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/12ac9368-6329-40f4-b4b1-67812a75cd78" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/6e14ed30-41f9-4852-991d-c8f6f2093d42" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/9e944fce-a081-4ddc-81f8-962171fdeccc" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/39c81563-d32b-4f7a-bdcf-e8d33bc433dd" />
+
+
 # Home Decor
 
 A modern shopping experience for stylish interiors. The app allows users to browse furniture, manage their cart, and complete secure purchases with ease.
